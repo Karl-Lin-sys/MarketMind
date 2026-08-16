@@ -1,0 +1,6 @@
+{
+  "name": "MarketMind",
+  "description": "An AI-powered tool for generating complete email marketing campaigns and chatting with marketing AI personas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
